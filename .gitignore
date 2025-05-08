@@ -175,4 +175,4 @@ cython_debug/
 
 # self-defined
 outputs/
-mid_axial/
+mid_axial*/
